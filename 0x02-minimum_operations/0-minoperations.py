@@ -1,11 +1,11 @@
 #!/usr/bin/python3
-""" 
+"""
 Defines minimum operations
 """
 
 
 def minOperations(n):
-    """ 
+    """
     Returns an integer
     """
     if not isinstance(n, int):
