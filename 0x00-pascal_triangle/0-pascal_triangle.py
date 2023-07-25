@@ -19,4 +19,3 @@ def pascal_triangle(n):
                             triangle[index - 1][jndex])
         triangle.append(line)
     return triangle
-
