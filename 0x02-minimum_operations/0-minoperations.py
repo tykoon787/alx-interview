@@ -1,10 +1,12 @@
 #!/usr/bin/python3
-""" Defines minOperations."""
+""" 
+Defines minimum operations
+"""
 
 
 def minOperations(n):
-    """ Returns an integer.
-        if n is imposible to achieve, return 0.
+    """ 
+    Returns an integer
     """
     if not isinstance(n, int):
         return 0
